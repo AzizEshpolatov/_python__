@@ -1,0 +1,3 @@
+2025-01-15 17:02:20,437 - INFO - Katalog yaratildi: example_folder
+2025-01-15 17:02:20,438 - INFO - Faylga yozildi: example_folder/example.txt
+2025-01-15 17:02:20,439 - INFO - Fayldan o'qildi: Bu faylga yozilgan matn.
