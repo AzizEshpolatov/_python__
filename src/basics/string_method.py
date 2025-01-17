@@ -108,5 +108,3 @@ print(trans)
 
 table = str.maketrans("abc", "123", "d")
 print("abcdabc".translate(table))  # 123123 (d olib tashlandi)
-
-print(234)
