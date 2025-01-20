@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d214d10a-e126-4cb2-9e7a-4e1209d18fea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/function_parametrs_py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/function_py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/modul_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/class_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/function_anotations_py.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -36,25 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.data_type_and_veriable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.input_and_output.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modul_py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.py_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_list.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.data_type_and_veriable.executor": "Run",
+    "Python.dict_py.executor": "Run",
+    "Python.function_anotations_py.executor": "Run",
+    "Python.function_py.executor": "Run",
+    "Python.input_and_output.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.modul_py.executor": "Run",
+    "Python.py_set.executor": "Run",
+    "Python.string_method.executor": "Run",
+    "Python.tuple.executor": "Run",
+    "Python.user_list.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.modul_py">
+}]]></component>
+  <component name="RunManager" selected="Python.function_anotations_py">
     <configuration name="dict_py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="_python_" />
       <option name="ENV_FILES" value="" />
@@ -69,6 +70,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basics/dict_py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_anotations_py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="_python_" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basics/function_anotations_py.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,35 +166,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="_python_" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\pro\PycharmProjects\_python_\src\basics\py_tuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.function_anotations_py" />
         <item itemvalue="Python.modul_py" />
         <item itemvalue="Python.function_py" />
         <item itemvalue="Python.dict_py" />
         <item itemvalue="Python.py_set" />
-        <item itemvalue="Python.py_tuple" />
       </list>
     </recent_temporary>
   </component>
