@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d214d10a-e126-4cb2-9e7a-4e1209d18fea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/class_py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/function_anotations_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_py/python_decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/_python_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/_python_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -36,27 +37,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.data_type_and_veriable.executor": "Run",
-    "Python.dict_py.executor": "Run",
-    "Python.function_anotations_py.executor": "Run",
-    "Python.function_py.executor": "Run",
-    "Python.input_and_output.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.modul_py.executor": "Run",
-    "Python.py_set.executor": "Run",
-    "Python.string_method.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.user_list.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.data_type_and_veriable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_anotations_py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_and_output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modul_py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.py_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user_list.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.function_anotations_py">
-    <configuration name="dict_py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.python_decorators">
+    <configuration name="data_type_and_veriable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="_python_" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basics/dict_py.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basics/data_type_and_veriable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="_python_" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/advanced_py" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basics/py_set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/advanced_py/python_decorators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,18 +172,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.function_anotations_py" />
+        <item itemvalue="Python.python_decorators" />
+        <item itemvalue="Python.data_type_and_veriable" />
         <item itemvalue="Python.modul_py" />
         <item itemvalue="Python.function_py" />
-        <item itemvalue="Python.dict_py" />
-        <item itemvalue="Python.py_set" />
+        <item itemvalue="Python.function_anotations_py" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
